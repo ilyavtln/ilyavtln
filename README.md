@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 I’m a 22-year-old frontend developer currently studying Applied Mathematics and Computer Science at NSTU. I specialize in Angular and enjoy creating dynamic, user-friendly web applications.<br><br>🌟 I’m passionate about tackling challenging problems and continuously learning new technologies. In my free time, I love exploring tech trends, contributing to open-source projects, and diving into great books.<br><br>🚀 Let’s connect and collaborate on exciting projects!
+👋 I’m a 23-year-old frontend developer currently studying Applied Mathematics and Computer Science at NSTU. I specialize in Angular and enjoy creating dynamic, user-friendly web applications.<br><br>🌟 I’m passionate about tackling challenging problems and continuously learning new technologies. In my free time, I love exploring tech trends, contributing to open-source projects, and diving into great books.<br><br>🚀 Let’s connect and collaborate on exciting projects!
 
 
 ## 🌐 Socials:
